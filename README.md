@@ -44,8 +44,14 @@ ___
  <a href="https://sqlite.org/index.html" target="_blank"> <img src="https://user-images.githubusercontent.com/63665876/155894481-209e6c93-8154-4301-83eb-a976c0e7dba1.png"
 alt="Sqlite" width="40" height="40"/> </a>
   <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://user-images.githubusercontent.com/63665876/155894693-fd7a22a9-cc00-4779-8cc3-12d2bb29301a.png"alt="Spring-Boot" width="40" height="40"/> </a>
- 
 </p>
 
+
 ___
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JosephAlzieb&show_icons=true&locale=en&layout=compact" alt="JosephAlzieb" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JosephAlzieb&" alt="JosephAlzieb" /></p>
+
 ___
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JosephAlzieb&show_icons=true&locale=en" alt="JosephAlzieb" /></p>
