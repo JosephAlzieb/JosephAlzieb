@@ -10,7 +10,7 @@ ___
 ___
 
 
-<h2 align="left">Connect with me:</h2>
+<h2 align="left">☎️ Connect with me:</h2>
 <p align="left">
 
   <a href="https://www.linkedin.com/in/joseph-alzieb-573092220/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/63665876/155890061-ab546591-3bf3-4aee-85fb-f80300c04b9e.png" alt="Joseph Alzieb LinkedIn" height="60" width="60" /></a>
@@ -24,7 +24,7 @@ ___
 ___
 ___
 
-<h2 align="left">Languages and Tools:</h2>
+<h2 align="left"> 🔧 Languages and Tools:</h2>
 <p align="center"> 
     <a href="https://www.w3schools.com/css/" target="blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
