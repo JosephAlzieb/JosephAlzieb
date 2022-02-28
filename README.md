@@ -10,7 +10,6 @@ ___
 ___
 
 
-
 <h2 align="left">Connect with me:</h2>
 <p align="left">
 
@@ -45,7 +44,6 @@ ___
 </p>
 
 
-___
 ___
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=JosephAlzieb&show_icons=true&locale=en&layout=compact" alt="JosephAlzieb" /></p>
