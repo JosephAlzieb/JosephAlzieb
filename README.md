@@ -41,9 +41,7 @@ ___
  <a href="https://flutter.dev" target="_blank"> <img src="https://user-images.githubusercontent.com/63665876/155893851-eccf698f-fd03-4a39-bb56-80b3bd635a7d.png" alt="Flutter" width="40" height="40"/> </a>
  <a href="https://dart.dev" target="_blank"> <img src="https://user-images.githubusercontent.com/63665876/155894158-63301690-b3de-494e-b895-8c9a76fdbdc2.png" alt="Dart" width="60" height="30"/> </a>
  <a href="https://www.w3schools.com/sql/sql_intro.asp" target="_blank"> <img src="https://user-images.githubusercontent.com/63665876/155894370-5b4fa4b5-d72e-400b-9407-87b0879816c2.png" alt="SQL" width="40" height="40"/> </a>
- <a href="https://sqlite.org/index.html" target="_blank"> <img src="https://user-images.githubusercontent.com/63665876/155894481-209e6c93-8154-4301-83eb-a976c0e7dba1.png"
-alt="Sqlite" width="40" height="40"/> </a>
-  <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://user-images.githubusercontent.com/63665876/155894693-fd7a22a9-cc00-4779-8cc3-12d2bb29301a.png"alt="Spring-Boot" width="40" height="40"/> </a>
+ <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
 </p>
 
 
