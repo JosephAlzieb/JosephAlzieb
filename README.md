@@ -1,5 +1,10 @@
+<p align="center">
+<img src="https://user-images.githubusercontent.com/63665876/169418140-07f045e4-804b-44d9-bc67-f4abaad64363.png" width="350" height="120">
+</p>
+
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"> , I'm Joseph</h1>
 <h3 align="center">A Junior web & mobile developer</h3>
+<h3 align="center">Glad to see you here 😍</h2>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JosephAlzieb&row=1" alt="JosephAlzieb" /></a> </p>
 
