@@ -51,3 +51,9 @@ ___
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=JosephAlzieb&" alt="JosephAlzieb" /></p>
 
 <!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=JosephAlzieb&show_icons=true&locale=en" alt="JosephAlzieb" /></p> -->
+
+<p align="center">
+<a href="https://github.com/JosephAlzieb/?tab=repositories"> 
+  <img alt="JosephAlzieb's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=JosephAlzieb&bg_color=011627&color=79d0c1&line=c692e9&point=feea95&hide_border=true" />
+</a>
+</p>
