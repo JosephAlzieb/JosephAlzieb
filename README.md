@@ -6,6 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JosephAlzieb&label=Profile%20views&color=0e75b6&style=flat" alt="JosephAlzieb" /> </p>
 
+<!--
 ___
 ___
 
@@ -20,7 +21,7 @@ ___
 ### E-Mail : **joseph97-alzieb@web.de**
  
  </p>
-
+-->
 ___
 ___
 
@@ -38,10 +39,13 @@ ___
  <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
  <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
  <a href="https://flutter.dev" target="_blank"> <img src="https://user-images.githubusercontent.com/63665876/155893851-eccf698f-fd03-4a39-bb56-80b3bd635a7d.png" alt="Flutter" width="40" height="40"/> </a>
- <a href="https://dart.dev" target="_blank"> <img src="https://user-images.githubusercontent.com/63665876/155894158-63301690-b3de-494e-b895-8c9a76fdbdc2.png" alt="Dart" width="60" height="30"/> </a>
- <a href="https://www.w3schools.com/sql/sql_intro.asp" target="_blank"> <img src="https://user-images.githubusercontent.com/63665876/155894370-5b4fa4b5-d72e-400b-9407-87b0879816c2.png" alt="SQL" width="40" height="40"/> </a>
+ <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40"/> </a>
+ <a href="https://www.w3schools.com/sql/sql_intro.asp" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQL" width="40" height="40"/> </a>
  <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
- <a href="https://vaadin.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/63665876/184551094-8e69ac76-0331-4952-b696-5198e8a30135.png" alt="Vaadin" width="70" height="40"/> </a>
+ <a href="https://vaadin.com/" target="_blank"> <img src="https://github.com/dochne/wappalyzer/blob/main/src/images/icons/Vaadin.svg" alt="Vaadin" width="40" height="40"/> </a>
+ <a href="https://azure.microsoft.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Microsoft Azure" width="40" height="40"/> </a>
+ <a href="https://symfony.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/symfony/symfony-icon.svg" alt="Symfony" width="50" height="40"/> </a>
+ <a href="https://www.php.net/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg" alt="PHP" width="40" height="40"/> </a>
 </p>
 
 
