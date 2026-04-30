@@ -14,20 +14,50 @@ ___
 
 <h2 align="center">🔧 Tech Stack & Skills</h2>
 
-<h3 align="left">🎨 Frontend</h3>
-<p align="center"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a> <a href="https://vaadin.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vaadin/vaadin-original.svg" alt="Vaadin" width="40" height="40"/></a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/></a> <a href="https://dart.dev" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40"/></a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/></a> <a href="https://www.thymeleaf.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/thymeleaf/thymeleaf-original.svg" alt="Thymeleaf" width="40" height="40"/></a> </p>
+<br>
 
-<h3 align="left">⚙️ Backend</h3>
-<p align="center"> <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a> <a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" height="40"/></a> <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/></a> <a href="https://symfony.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/symfony/symfony-icon.svg" alt="Symfony" width="40" height="40"/></a> <a href="https://grpc.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/grpc/grpc.io/main/static/img/logos/grpc-icon-color.png" alt="gRPC" width="40" height="40"/></a> <a href="https://gradle.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-original-wordmark.svg" alt="Gradle" width="40" height="40"/></a> <a href="https://maven.apache.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" alt="Maven" width="40" height="40"/></a> <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/></a> </p>
+<h2>🎨 Frontend</h2>
+<div align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vaadin/vaadin-original.svg" alt="Vaadin" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/thymeleaf/thymeleaf-original.svg" alt="Thymeleaf" width="40" height="40"/>
+</div>
 
-<h3 align="left">🗄️ Databases</h3>
-<p align="center"> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/></a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="MariaDB" width="40" height="40"/></a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/></a> <a href="https://www.w3schools.com/sql/sql_intro.asp" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQL" width="40" height="40"/></a> </p>
+<br>
 
-<h3 align="left">☁️ Cloud & DevOps</h3>
-<p align="center"> <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Microsoft Azure" width="40" height="40"/></a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/></a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a> </p>
+<img width="100%" height="1" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
-<h3 align="left">🤖 AI & LLM</h3>
-<p align="center"> <a href="https://www.anthropic.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Anthropic_Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" /></a> <a href="https://docs.anthropic.com/en/docs/build-with-claude/mcp" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/MCP-5A45FF?style=for-the-badge&logoColor=white" alt="MCP" /></a> <a href="https://docs.anthropic.com/en/api" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Claude_API-1A1A2E?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude API" /></a> <a href="https://openai.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" /></a> <a href="https://platform.openai.com/docs/guides/embeddings" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Embeddings-00A67E?style=for-the-badge&logo=openai&logoColor=white" alt="Embeddings" /></a> </p>
+<h2>⚙️ Backend</h2>
+<div align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/symfony/symfony-icon.svg" alt="Symfony" width="40" height="40"/> <img src="https://raw.githubusercontent.com/grpc/grpc.io/main/static/img/logos/grpc-icon-color.png" alt="gRPC" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-original-wordmark.svg" alt="Gradle" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" alt="Maven" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
+</div>
+
+<br>
+
+<img width="100%" height="1" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+
+<h2>🗄️ Databases</h2>
+<div align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="MariaDB" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQL" width="40" height="40"/>
+</div>
+
+<br>
+
+<img width="100%" height="1" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+
+<h2>☁️ Cloud & DevOps</h2>
+<div align="center">
+<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Microsoft Azure" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+</div>
+
+<br>
+
+<img width="100%" height="1" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+
+<h2>🤖 AI & LLM</h2>
+<div align="center">
+<a href="https://www.anthropic.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Anthropic_Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" /></a> <a href="https://docs.anthropic.com/en/docs/build-with-claude/mcp" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/MCP-5A45FF?style=for-the-badge&logoColor=white" alt="MCP" /></a> <a href="https://docs.anthropic.com/en/api" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Claude_API-1A1A2E?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude API" /></a> <a href="https://openai.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" /></a> <a href="https://platform.openai.com/docs/guides/embeddings" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Embeddings-00A67E?style=for-the-badge&logo=openai&logoColor=white" alt="Embeddings" /></a>
+</div>
+
+<br>
 
 ___
 
